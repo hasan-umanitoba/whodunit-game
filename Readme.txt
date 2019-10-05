@@ -1,4 +1,5 @@
-This game involves deduction to determine the "who , where and how" of a crime. Each player makes guesses about the crime, and then other players refute that guess.
+This game involves deduction to determine the "who , where and how" of a crime.
+Each player makes guesses about the crime, and then other players refute that guess.
 https://www.youtube.com/watch?v=sg_57S4l5Ng
 
 psuedocode :
